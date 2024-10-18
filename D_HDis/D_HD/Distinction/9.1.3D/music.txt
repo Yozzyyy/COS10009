@@ -1,0 +1,40 @@
+4
+DAMN
+Kendrick Lamar
+images/Kendrick_Lamar_-_Damn1.png
+4
+DNA
+songs\DNA - Kendrick Lamar (AUDIO).mp3
+HUMBLE
+songs\HUMBLE..mp3
+ELEMENT
+songs\Kendrick Lamar - ELEMENT..mp3
+LOVE
+songs/Kendrick Lamar - LOVE. ft. Zacari.mp3
+Blonde
+Frank Ocean
+images/Blonde_-_Frank_Ocean.jpeg
+3
+Ivy
+songs\Frank Ocean - Ivy.mp3
+Pink+White
+songs/Frank Ocean - Pink  White.mp3
+White Ferrari
+songs/Frank Ocean - White Ferrari.mp3
+EASY
+LE SSERAFIM
+images/easy_ls.jpg
+2
+EASY
+songs/LE SSERAFIM  'EASY' OFFICIAL MV.mp3
+SMART
+songs/LE SSERAFIM  'Smart' OFFICIAL MV.mp3
+How Sweet
+New Jeans
+images/NewJeans_-_How_Sweet.png
+2
+How Sweet
+songs/NewJeans  'Bubble Gum' Official MV.mp3
+Bubble Gum
+songs/NewJeans  'Bubble Gum' Official MV.mp3
+
